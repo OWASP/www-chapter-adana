@@ -8,8 +8,28 @@ country: Turkey
 meetup-group:
 
 ---
-## Welcome <a href="/www-chapter-adana/tr">Türkçe</a>
-Include some information here about your chapter
+## Welcome
+Our focus is to acknowledge app developers and AI developers on cyber security and secure development processes.
+
+## Details
+<ul>
+  <li>Keeping up with recent researches on security and sharing them with developers</li>
+  <li>With interactive meetings, drawing attention on security</li>
+  <li>Approaching basis of app security on development side</li>
+  <li>Working on overlooked AI security as a whole</li>
+</ul>
+
+## Advantages
+
+<ul>
+  <li>Having new and fresh perspectives on both app security and AI security</li>
+  <li>Being a part of a global community</li>
+  <li>Hands-on learning opportunities</li>
+</ul>
+
+## Become A Supporter
+<a href="berke.pagniki@owasp.org" target="_blank">Berke Pağnıklı</a>
+<a href="yigitcan.atilgan@owasp.org" target="_blank">Yiğit Can Atılgan</a>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
