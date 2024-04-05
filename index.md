@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Adana
-tags: example-tag
+tags: contact-tag, event-tag
 region: Europe
 country: Turkey
 meetup-group:
@@ -28,7 +28,7 @@ Our focus is to acknowledge app developers and AI developers on cyber security a
 </ul>
 
 ## Become A Supporter
-<a href="berke.pagniki@owasp.org" target="_blank">Berke Pağnıklı</a>
+<a href="berke.pagniki@owasp.org" target="_blank">Berke Pağnıklı</a><br/>
 <a href="yigitcan.atilgan@owasp.org" target="_blank">Yiğit Can Atılgan</a>
 
 ## Participation
