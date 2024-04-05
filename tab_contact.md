@@ -2,10 +2,11 @@
 title: Contact
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: contact-tag
 ---
 
-## Contact
+## Our LinkedIn Profiles
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+<a href="https://www.linkedin.com/in/berke-pagnikli-370565165/" target="_blank">Berke Pağnıklı</a><br/>
+<a href="https://www.linkedin.com/in/ycanatilgan/" target="_blank">Yiğit Can Atılgan</a>
