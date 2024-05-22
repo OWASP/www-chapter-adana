@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Adana
 tags: contact-tag, event-tag
-region: Europe
+region: Asia
 country: Turkey
 meetup-group:
 
