@@ -1,0 +1,23 @@
+leaders:
+  - name: Yiğit Can Atılgan
+    email: yigit.canatilgan@owasp.org
+    github: ycanatilgan
+  - name: Berke Pağnıklı
+    email: berke.pagniki@owasp.org
+location:
+  country: Turkey
+  country_code: TR
+  region: Adana Province
+  city: Adana
+  latitude: 36.9863599
+  longitude: 35.3252861
+name: OWASP Adana
+repositories:
+  - name: www-chapter-adana
+    url: https://github.com/OWASP/www-chapter-adana
+    description: OWASP Foundation web repository
+tags:
+  - contact-tag
+  - event-tag
+  - custom-tag-1
+website: https://owasp.org/www-chapter-adana
